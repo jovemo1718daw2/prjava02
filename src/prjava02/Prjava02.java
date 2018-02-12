@@ -31,4 +31,5 @@ public class Prjava02 {
 		System.out.println("Exception occurred");
         }  
     }
+    
 }
